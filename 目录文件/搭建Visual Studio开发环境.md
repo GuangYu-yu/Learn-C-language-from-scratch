@@ -16,7 +16,7 @@
 > **这里选择 `使用C++的桌面开发` ，安装位置一般不要选择系统盘。**
 > 
 > 其他选项保持默认即可配置完成后，点击右下角安装
-> ![](https://github.com/GuangYu-yu/first/blob/main/%E5%BC%95%E7%94%A8%E7%9A%84%E5%9B%BE%E7%89%87/%E5%B7%A5%E4%BD%9C%E8%B4%9F%E8%8D%B7%E7%9A%84%E9%80%89%E6%8B%A9.png?raw=true)
+> ![](https://raw.githubusercontent.com/GuangYu-yu/Learn-C-language-from-scratch/main/%E5%BC%95%E7%94%A8%E7%9A%84%E5%9B%BE%E7%89%87/%E5%B7%A5%E4%BD%9C%E8%B4%9F%E8%8D%B7%E7%9A%84%E9%80%89%E6%8B%A9.png)
 
 ## 4.虽然社区版是免费的，但是仍要激活才能使用，登录微软账号来完成激活。
 
