@@ -4,9 +4,9 @@
 
 [https://visualstudio.microsoft.com/](https://visualstudio.microsoft.com/)
 
-## 2. 下载 Visual Studio ，这里选择社区版，即`Community`版
+## 2. 下载 `Visual Studio` ，这里选择社区版，即`Community`版
 
-> **Professional是专业版，Enterprise是企业版。Visual Studio Code是文本编辑器，不可与之混淆**
+> **`Professional`是专业版，`Enterprise`是企业版。`Visual Studio Code`是文本编辑器，不可与之混淆**
 > ![](https://raw.githubusercontent.com/GuangYu-yu/first/main/%E5%BC%95%E7%94%A8%E7%9A%84%E5%9B%BE%E7%89%87/Visual%20Studio%E7%A4%BE%E5%8C%BA%E7%89%88.png)
 
 ## 3. 工作负荷的选择
