@@ -69,4 +69,4 @@ int main()
 
 > 正确输入并运行后可以看到"Hello World"在控制台中被正确打印出来
 
-[跳转至下一页]()
+[跳转至下一页](https://github.com/GuangYu-yu/Learn-C-language-from-scratch/blob/main/%E7%9B%AE%E5%BD%95%E6%96%87%E4%BB%B6/%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md)
