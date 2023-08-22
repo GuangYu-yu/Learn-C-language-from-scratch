@@ -42,6 +42,8 @@
 
 ## 5.输入“Hello World”
 
+[跳转至cpp文件](https://github.com/GuangYu-yu/Learn-C-language-from-scratch/blob/main/cpp%E6%96%87%E4%BB%B6/HelloWord.cpp)
+
 ```
 #include<stdio.h>
 int main()
