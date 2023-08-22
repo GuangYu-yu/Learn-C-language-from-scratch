@@ -39,9 +39,9 @@
 
 > `.c`和`.cpp`分别是C和C++语言的文件后缀，C++兼容C语言的大部分语法，一般C++源文件编译C语言代码是没有问题的，这是C++兼容C做的设计，`.c`作为后缀也是可以的，但无法使用C++的语法
 
-## 5.输入“Hello World”代码
+## 5.输入“Hello World”
 
-[跳转至"Hello World"源码](https://github.com/GuangYu-yu/Learn-C-language-from-scratch/blob/main/cpp%E6%96%87%E4%BB%B6/HelloWord.cpp)
+[查看](https://github.com/GuangYu-yu/Learn-C-language-from-scratch/blob/main/cpp%E6%96%87%E4%BB%B6/HelloWord.cpp)
 
 ![](https://raw.githubusercontent.com/GuangYu-yu/Learn-C-language-from-scratch/main/%E5%BC%95%E7%94%A8%E7%9A%84%E5%9B%BE%E7%89%87/%E9%A6%96%E4%B8%AA%E7%A8%8B%E5%BA%8F%E2%80%94%E2%80%94%E2%80%9CHello%20World%E2%80%9D/%E8%BE%93%E5%85%A5%E4%BB%A3%E7%A0%81.png)
 
