@@ -4,6 +4,11 @@
 
 个人学习C++，并记录过程，**~~定期更新~~**
 
+> 点击蓝色字体进入
+
+## [目录](https://github.com/GuangYu-yu/Learn-C-language-from-scratch/blob/main/%E7%9B%AE%E5%BD%95%E6%96%87%E4%BB%B6/%E7%9B%AE%E5%BD%95.md)
+
+
 ---
 
 >以下内容引用自`菜鸟教程`
@@ -90,11 +95,3 @@ C++ 语言在许多行业和领域都有广泛应用，包括：
 | 2006     | -                       | C++性能技术报告            |
 | 2003     | C++03                   | 第二个C++标准              |
 | 1998     | C++98                   | 第一个C++标准              |
-
----
-
-## 目录
-
-> 点击蓝色字体进入
-
-[C语言入门基础](https://github.com/GuangYu-yu/Learn-C-language-from-scratch/blob/main/%E7%9B%AE%E5%BD%95%E6%96%87%E4%BB%B6/%E7%9B%AE%E5%BD%95.md)
