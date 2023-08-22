@@ -24,3 +24,5 @@
 ## 4.虽然社区版是免费的，但是仍要激活才能使用，登录微软账号来完成激活
 
 [跳转至下一页](https://github.com/GuangYu-yu/Learn-C-language-from-scratch/blob/main/%E7%9B%AE%E5%BD%95%E6%96%87%E4%BB%B6/%E9%A6%96%E4%B8%AA%E7%A8%8B%E5%BA%8F%E2%80%94%E2%80%94%E2%80%9CHello%20World.md)
+
+[返回目录](https://github.com/GuangYu-yu/Learn-C-language-from-scratch/blob/main/%E7%9B%AE%E5%BD%95%E6%96%87%E4%BB%B6/%E7%9B%AE%E5%BD%95.md)
