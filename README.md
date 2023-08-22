@@ -104,3 +104,5 @@ C++ 语言在许多行业和领域都有广泛应用，包括：
 [首个程序——“Hello World”](https://github.com/GuangYu-yu/Learn-C-language-from-scratch/blob/main/%E7%9B%AE%E5%BD%95%E6%96%87%E4%BB%B6/%E9%A6%96%E4%B8%AA%E7%A8%8B%E5%BA%8F%E2%80%94%E2%80%94%E2%80%9CHello%20World.md)
 
 [基础语法](https://github.com/GuangYu-yu/Learn-C-language-from-scratch/blob/main/%E7%9B%AE%E5%BD%95%E6%96%87%E4%BB%B6/%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md)
+
+[printf函数的补充](https://github.com/GuangYu-yu/Learn-C-language-from-scratch/blob/main/%E7%9B%AE%E5%BD%95%E6%96%87%E4%BB%B6/printf%E5%87%BD%E6%95%B0%E7%9A%84%E8%A1%A5%E5%85%85.md)
