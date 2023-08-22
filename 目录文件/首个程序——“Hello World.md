@@ -27,7 +27,8 @@
 从解决方案资源管理器删除示例
 
 > 一般Visual Studio（**简称VS**）的新项目默认创建示例文件，由于要自己编写"Hello World"程序，因此要删除默认示例文件
-> ![](https://raw.githubusercontent.com/GuangYu-yu/Learn-C-language-from-scratch/main/%E5%BC%95%E7%94%A8%E7%9A%84%E5%9B%BE%E7%89%87/%E9%A6%96%E4%B8%AA%E7%A8%8B%E5%BA%8F%E2%80%94%E2%80%94%E2%80%9CHello%20World%E2%80%9D/%E5%88%A0%E9%99%A4%E7%A4%BA%E4%BE%8B%E6%96%87%E4%BB%B6.png)
+
+![](https://raw.githubusercontent.com/GuangYu-yu/Learn-C-language-from-scratch/main/%E5%BC%95%E7%94%A8%E7%9A%84%E5%9B%BE%E7%89%87/%E9%A6%96%E4%B8%AA%E7%A8%8B%E5%BA%8F%E2%80%94%E2%80%94%E2%80%9CHello%20World%E2%80%9D/%E5%88%A0%E9%99%A4%E7%A4%BA%E4%BE%8B%E6%96%87%E4%BB%B6.png)
 
 创建新的源文件
 
@@ -41,7 +42,14 @@
 
 ## 5.输入“Hello World”
 
-[查看](https://github.com/GuangYu-yu/Learn-C-language-from-scratch/blob/main/cpp%E6%96%87%E4%BB%B6/HelloWord.cpp)
+```
+#include<stdio.h>
+int main()
+{
+	printf("Hello Word");
+	return 0;
+}
+```
 
 ![](https://raw.githubusercontent.com/GuangYu-yu/Learn-C-language-from-scratch/main/%E5%BC%95%E7%94%A8%E7%9A%84%E5%9B%BE%E7%89%87/%E9%A6%96%E4%B8%AA%E7%A8%8B%E5%BA%8F%E2%80%94%E2%80%94%E2%80%9CHello%20World%E2%80%9D/%E8%BE%93%E5%85%A5%E4%BB%A3%E7%A0%81.png)
 
