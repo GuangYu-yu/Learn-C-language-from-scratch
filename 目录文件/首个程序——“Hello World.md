@@ -61,7 +61,7 @@ int main()
 
 ![](https://raw.githubusercontent.com/GuangYu-yu/Learn-C-language-from-scratch/main/%E5%BC%95%E7%94%A8%E7%9A%84%E5%9B%BE%E7%89%87/%E9%A6%96%E4%B8%AA%E7%A8%8B%E5%BA%8F%E2%80%94%E2%80%94%E2%80%9CHello%20World%E2%80%9D/%E7%BC%96%E8%AF%91%E4%BB%A3%E7%A0%81%E5%B9%B6%E8%BF%90%E8%A1%8C.png)
 
-> 下方输出可以看到编译成功。如果有错误或警告，则可能是输入有误，注意文本和符号均采用英文输入。
+> 下方输出可以看到编译成功。如果有错误或警告，则可能因为没有输入完整，注意文本和符号均采用英文输入。
 
 ## 7.运行程序
 
