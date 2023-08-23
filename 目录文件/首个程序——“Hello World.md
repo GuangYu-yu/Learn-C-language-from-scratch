@@ -47,7 +47,7 @@
 > 不建议直接复制代码，试着手动输入
 
 ```
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
 	printf("Hello Word");
