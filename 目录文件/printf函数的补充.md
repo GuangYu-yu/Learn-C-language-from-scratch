@@ -49,6 +49,6 @@ B=666
 
 printf的第一个参数必须是`字符串`，`%转换操作`用来占位，整型int的占位符为`%d`。后面的替换参数，会依次替换前面的占位。只要第一个字符串的参数占位符写对了，后面可以加任意数量的替换参数
 
-[跳转至下一页]()
+[跳转至下一页](https://github.com/GuangYu-yu/Learn-C-language-from-scratch/blob/main/%E7%9B%AE%E5%BD%95%E6%96%87%E4%BB%B6/%E6%95%B4%E6%95%B0%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
 
 [返回目录](https://github.com/GuangYu-yu/Learn-C-language-from-scratch/blob/main/%E7%9B%AE%E5%BD%95%E6%96%87%E4%BB%B6/%E7%9B%AE%E5%BD%95.md)
