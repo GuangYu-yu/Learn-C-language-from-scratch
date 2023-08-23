@@ -4,6 +4,8 @@
 
 `printf`不是一个自定义函数，是一个`系统自带的函数`
 
+**这个函数被写在文件stdio.h中，假定printf的函数定义写在stdio.h中，用`#include`命令，可以将stdio.h的代码复制过来**
+
 printf由单词print（打印）和format（格式）而来，意思是格式化打印
 
 printf函数的作用是将字符串输出到控制台上
