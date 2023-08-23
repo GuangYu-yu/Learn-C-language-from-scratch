@@ -289,6 +289,6 @@ Hello World
 
 s 转换操作，将获取 sizeof(char *) 字节二进制数据，并将这个数据看作字符串首地址，从首地址开始，输出这串字符串
 
-[跳转至下一页]()
+[跳转至下一页](https://github.com/GuangYu-yu/Learn-C-language-from-scratch/blob/main/%E7%9B%AE%E5%BD%95%E6%96%87%E4%BB%B6/printf%E5%87%BD%E6%95%B0%E8%AF%A6%E8%A7%A32.md)
 
 [返回目录](https://github.com/GuangYu-yu/Learn-C-language-from-scratch/blob/main/%E7%9B%AE%E5%BD%95%E6%96%87%E4%BB%B6/%E7%9B%AE%E5%BD%95.md)
